@@ -54,7 +54,12 @@
 
 ## 我的微信：
 
-![](./img/wechat.jpg)
+
+<img src="./img/wechat.jpg" alt="Image" width="300" height="400">
+
+
 
 ## 打赏：
-![](./img/money.jpg)
+
+<img src="./img/money.jpg" alt="Image" width="300" height="400">
+
